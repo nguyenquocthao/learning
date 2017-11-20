@@ -1,2 +1,2 @@
-# learning
-a repository stores my learning and other things
+# Learning
+A repository stores my learning and other things
